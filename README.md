@@ -10,7 +10,7 @@
 
 ### About Me
 
-- **PG-DITISS student** passionate about **Cybersecurity**, **Cloud Infrastructure**, and **DevOps**.
+- **PG-DITISS student** passionate about **system_Administration**,**Networking**, **Cybersecurity**, **Cloud Infrastructure**, and **DevOps**.
 - Actively exploring tools like **Burp Suite**, **Metasploit**, **Terraform**, **Docker**, **AWS**, and **Jenkins**.
 - Learning scripting with **Python**, **Bash**, and **PowerShell**.
 
